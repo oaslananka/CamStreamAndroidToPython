@@ -1,6 +1,6 @@
 # CamStreamAndroidToPython
 
-![](assets\sample.gif)
+![](assets/sample.gif)
 
 
 ## Project Description
@@ -83,4 +83,4 @@ python main.pyxt
 
 
 
-![](assets\phone.png)
+![](assets/phone.png)
