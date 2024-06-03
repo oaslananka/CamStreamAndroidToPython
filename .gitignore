@@ -1,0 +1,19 @@
+# Android
+/android/CameraXRTSPStreaming/.gradle/
+/android/CameraXRTSPStreaming/local.properties
+/android/CameraXRTSPStreaming/.idea/
+/android/CameraXRTSPStreaming/*.iml
+/android/CameraXRTSPStreaming/build/
+/android/CameraXRTSPStreaming/app/build/
+
+# Python
+/python/stream_processing/__pycache__/
+/python/stream_processing/*.pyc
+/python/stream_processing/env/
+/python/stream_processing/venv/
+/python/stream_processing/.env
+
+# git ignore
+*.log
+*.swp
+.DS_Store
