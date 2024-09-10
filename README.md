@@ -46,7 +46,7 @@ This project demonstrates how to stream live camera footage from an Android devi
 1. **Clone the repository**:
 
 ```sh
-git clone https://github.com/yourusername/CamStreamAndroidToPython.git
+git clone https://github.com/oaslananka/CamStreamAndroidToPython.git
 cd CamStreamAndroidToPython/android/CameraXRTSPStreaming
 ```
 
